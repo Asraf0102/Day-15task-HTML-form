@@ -1,0 +1,16 @@
+body{
+    background: linear-gradient(to top, rgb(108, 223, 238), rgb(155, 72, 233));
+}
+nav{
+    
+    background: linear-gradient(to bottom, rgb(215, 104, 230),rgb(122, 72, 216))
+} 
+
+ table{
+    border: 5px solid black
+}
+
+td,th{
+    border: 1px solid black;
+    padding: 1em;
+} 
